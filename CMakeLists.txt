@@ -13,7 +13,6 @@ find_package(Qt6 REQUIRED COMPONENTS
     Gui
     Widgets
     Network
-    WebEngineWidgets
     Concurrent
     Sql
     Xml
@@ -52,7 +51,6 @@ target_link_libraries(KLauncher PRIVATE
     Qt6::Gui
     Qt6::Widgets
     Qt6::Network
-    Qt6::WebEngineWidgets
     Qt6::Concurrent
     Qt6::Sql
     Qt6::Xml
