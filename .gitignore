@@ -1,0 +1,13 @@
+build/
+*.AppImage
+*.tar.gz
+AppDir/
+release/
+*.user
+.qtc_clangd/
+.cache/
+compile_commands.json
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile

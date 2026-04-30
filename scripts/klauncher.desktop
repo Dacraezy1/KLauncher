@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=KLauncher
+Comment=Fast native Qt6 Minecraft launcher for Linux
+Exec=klauncher
+Icon=klauncher
+Categories=Game;
+Terminal=false
+StartupNotify=true
+StartupWMClass=KLauncher
+Keywords=minecraft;launcher;java;modding;fabric;forge;

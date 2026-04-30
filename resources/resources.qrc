@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/">
+    <file>icons/klauncher.png</file>
+    <file>images/splash.png</file>
+    <file>themes/dark.qss</file>
+    <file>themes/light.qss</file>
+    <file>themes/deepblue.qss</file>
+    <file>themes/midnight.qss</file>
+    <file>themes/nord.qss</file>
+  </qresource>
+</RCC>
